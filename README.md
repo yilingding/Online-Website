@@ -1,4 +1,4 @@
-# Online-Website
+# Supermarket Management System
 Introduction:
 
 •This project uses the tomcat and other tools to active the server and general the connection to the port
